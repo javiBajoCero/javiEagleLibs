@@ -1,0 +1,3 @@
+[submodule "EAGLE-OTA"]
+	path = EAGLE-OTA
+	url = https://github.com/dhkris/EAGLE-OTA
